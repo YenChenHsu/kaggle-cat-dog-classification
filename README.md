@@ -3,5 +3,4 @@ This Kaggle project utilized Keras to build a Convolutional Neural Network to id
 
 # Data Set
 ###### The data source can be found here: [https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data]. 
-In the code, I connect the dataset with Kaggle API. 
 
